@@ -1,11 +1,9 @@
-# IA no Azure:
+# Introdução à Inteligência Artificial no Azure:
 
-## Introdução à Inteligência Artificial no Azure:
-
-### Introdução à IA:
+## Introdução à IA:
 A IA nos permite criar software incrível que pode aprimorar a assistência médica, permitir que as pessoas superem deficiências físicas, capacitar a infraestrutura inteligente, criar experiências de entretenimento incríveis e até mesmo salvar o planeta!
 
-### O que é IA?
+## O que é IA?
 Em síntese, a IA é a criação de um software que imita comportamentos e capacidades humanos. Os elementos principais incluem:
 
 - **Machine Learning:**
